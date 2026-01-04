@@ -1,0 +1,7 @@
+{
+  "name": "Jungle Adventure: KidStudy",
+  "description": "An interactive learning presentation for kids featuring video scenes, colorful subtitles, and AI-powered voiceover for an engaging educational experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
